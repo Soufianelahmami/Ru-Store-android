@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "caa3d17d-208e-43b5-9dc2-08f94948fc0f",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcZINj.webp",
+	 "title": "Ru-Store android",
+	 "text": "As of my last knowledge update in September 2021, I don't have specific information about a service or app named Ru-Store for Android. It's possible that it's a service that emerged after my last update or it might be a specific app or store that has gained popularity in a certain region or community.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcZzAb.webp",
+	 "title": "Ru-Store android",
+	 "text": "If Ru-Store" is related to a Russian app store or service, it could potentially be a platform for distributing Android applications in Russia or a store that caters to Russian-language users. Here are some general ideas or features that you might find in a regional Android store like Ru-Store",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcZBK7.webp",
+	 "title": "Ru-Store android",
+	 "text": "The store might offer applications that are popular or relevant in the Russian-speaking community. This could include apps developed by local developers or international apps with Russian language support.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcZxHu.webp",
+	 "title": "Ru-Store android3",
+	 "text": "To cater to the preferences of the Russian audience, the store might emphasize apps related to Russian culture, language learning, or entertainment.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcZCl9.webp",
+	 "title": "Ru-Store android",
+	 "text": "Considering the local payment preferences, Ru-Store might integrate with popular payment methods in Russia, making it easy for users to purchase apps or make in-app purchases",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcZnSe.webp",
+	 "title": "Ru-Store android",
+	 "text": "The store could offer special deals, discounts, or promotions for apps that are popular or trending in the Russian market",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
